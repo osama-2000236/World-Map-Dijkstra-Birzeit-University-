@@ -1,0 +1,354 @@
+53 300
+Amman 31.963158 35.930359
+Argentina -34.603722 -58.381592
+BuenosAires -34.603722 -58.381592
+Canberra -35.282000 149.128684
+Vienna 48.2081743 16.3738189
+Brussels 50.8503396 4.3517103
+Brasília -15.7942 -47.8825
+Sofia 42.697708 23.321868
+Ottawa 45.4215296 -75.6971930
+Santiago -33.448890 -70.669265
+Beijing 39.9042 116.4074
+Bogotá 4.7109885 -74.072092
+Zagreb 45.8150108 15.9819189
+Prague 50.08804 14.42076
+Copenhagen 55.6760968 12.5683372
+Cairo 30.044420 31.235712
+Helsinki 60.1698557 24.9383791
+Paris 48.8566 2.3522
+Berlin 52.52 13.405
+Athens 37.983917 23.729360
+Nuuk 94.1835 -51.7216
+Budapest 47.497912 19.040235
+NewDelhi 28.6139 77.2090
+Jakarta -6.175110 106.865036
+Tehran 35.696111 51.423056
+Dublin 53.3498053 -6.2603097
+Rome 41.9 12.5
+Tokyo 35.6895 139.6917
+Nairobi -1.292066 36.821946
+KualaLumpur 3.139003 101.686855
+MexicoCity 19.432608 -99.133208
+Podgorica 42.442575 19.268646
+Amsterdam 52.3745403 4.89797550
+Abuja 9.081999 8.675277
+Oslo 59.9138204 10.752245
+Jerusalem 31.771959 35.217018
+Lima -12.046374 -77.042793
+Warsaw 52.22977 21.01178
+Lisbon 35.7222524 -9.1393366
+Bucharest 44.4267674 26.1025384
+Moscow 55.7558 37.6173
+Belgrade 44.786568 20.4489216
+Bratislava 48.1481601 17.1067694
+Ljubljana 46.0569465 14.5057515
+Pretoria -33.918861 18.423300
+Seoul 37.566535 126.9779692
+Madrid 36.4168 -3.7033
+Stockholm 59.3293235 18.0685808
+Bern 46.9479739 7.4474468
+Bangkok 13.7563309 100.5017651
+WashingtonDC 38.9072 -77.0369
+London 51.507351 -0.127758
+Caracas 10.480594 -66.903603
+Brussels Lima 1200 800
+Nairobi Vienna 700 540
+Oslo London 150 120
+Jerusalem Cairo 200 90
+Nairobi Tehran 600 480
+Brasília Amsterdam 900 720
+Rome Abuja 800 600
+BuenosAires Pretoria 1000 900
+Beijing Seoul 300 180
+Sofia Abuja 750 720
+Cairo Madrid 250 120
+KualaLumpur Oslo 850 720
+Brussels Warsaw 150 120
+Dublin Belgrade 200 150
+Sofia Seoul 950 750
+Madrid Jakarta 1100 840
+Copenhagen WashingtonDC 1200 720
+Nuuk Stockholm 500 300
+Copenhagen Ottawa 1150 720
+Helsinki Bern 400 180
+Warsaw Vienna 200 120
+Rome Bratislava 250 150
+Warsaw Jerusalem 700 480
+Rome Santiago 950 780
+Budapest Brussels 150 120
+Copenhagen Dublin 300 180
+MexicoCity Santiago 900 600
+Bratislava Berlin 200 120
+Paris Brussels 150 90
+Nairobi Seoul 1000 900
+Brasília Bangkok 1000 840
+Bucharest Jakarta 950 780
+Paris Helsinki 400 240
+Lisbon Madrid 100 60
+Dublin Berlin 250 150
+Madrid Lisbon 100 60
+Belgrade Bucharest 150 90
+Athens Sofia 200 120
+Caracas Jerusalem 1000 720
+Bratislava Beijing 1100 840
+Santiago Tokyo 1200 900
+Dublin Canberra 1500 1440
+Lisbon Canberra 1600 1440
+Athens Budapest 300 180
+Belgrade Pretoria 1100 900
+Brasília Lisbon 800 720
+Oslo Bangkok 1200 960
+Seoul Bogotá 1100 840
+Bucharest Rome 250 120
+Brussels Budapest 200 120
+Bogotá Tokyo 1300 900
+Tehran Ottawa 950 720
+Athens Lima 1300 900
+Moscow WashingtonDC 1200 720
+Pretoria Nuuk 1100 960
+Madrid Brasília 950 720
+Bern Cairo 850 720
+Caracas Canberra 1600 1440
+Nairobi KualaLumpur 1100 900
+Beijing Madrid 1300 840
+Madrid Ottawa 1200 720
+Bern Ottawa 1150 720
+Vienna Brussels 200 120
+Stockholm Prague 250 150
+Belgrade Zagreb 150 90
+Bangkok BuenosAires 1200 960
+Zagreb Bern 400 180
+Zagreb Lisbon 300 180
+Bogotá Cairo 1000 840
+Budapest Madrid 200 150
+Berlin Bucharest 200 120
+Bucharest Caracas 1200 900
+Rome Athens 300 180
+Lisbon Sofia 400 240
+KualaLumpur Tehran 700 600
+Brussels Bogotá 950 720
+Nuuk Pretoria 1100 960
+Canberra Lima 1500 1440
+Bern BuenosAires 1200 900
+Brussels Seoul 950 750
+Jerusalem Prague 800 600
+London Copenhagen 200 120
+Bucharest Rome 250 120
+Nuuk NewDelhi 1500 1440
+Santiago Brasília 800 720
+Santiago Warsaw 1000 840
+Copenhagen Tehran 900 720
+Lisbon Brasília 900 720
+Tehran Lima 1000 840
+Dublin Zagreb 250 150
+Zagreb Moscow 1200 900
+Paris Prague 350 180
+Santiago Nuuk 1300 900
+Berlin Dublin 300 180
+Podgorica Jakarta 1100 900
+Zagreb Caracas 1200 900
+Abuja Lisbon 800 720
+Dublin Prague 350 180
+NewDelhi Copenhagen 1200 720
+Rome Copenhagen 300 180
+Madrid Caracas 1100 840
+Zagreb Athens 300 180
+Santiago Zagreb 800 600
+Oslo Bucharest 400 240
+Pretoria Warsaw 1100 900
+Dublin Bern 350 180
+London Tokyo 1400 900
+Ljubljana Brasília 1000 720
+Warsaw KualaLumpur 900 720
+Prague Warsaw 200 120
+Oslo Zagreb 350 240
+Beijing Jerusalem 1100 840
+Prague Vienna 200 120
+Lima Warsaw 1300 900
+Ljubljana NewDelhi 1200 720
+Ljubljana BuenosAires 1100 960
+Dublin Prague 350 180
+Amsterdam Lisbon 800 720
+Sofia BuenosAires 1200 900
+Amsterdam Zagreb 900 720
+Ottawa Lima 1300 900
+Bratislava Copenhagen 300 180
+Sofia Warsaw 300 180
+Cairo Vienna 300 180
+Nairobi Helsinki 800 600
+Lima Lisbon 1200 840
+Budapest Oslo 400 240
+Cairo Jakarta 1100 180
+Tehran Vienna 600 300
+Bern Dublin 750 420
+Prague Pretoria 950 780
+Brussels Lisbon 200 120
+WashingtonDC Tehran 1100 840
+Prague Lima 1200 900
+Athens Bern 400 180
+Paris KualaLumpur 950 720
+Oslo Madrid 300 150
+BuenosAires Tehran 1200 840
+WashingtonDC Seoul 1300 960
+Brasília Ljubljana 1100 840
+Jakarta Berlin 950 780
+Caracas Lima 850 720
+MexicoCity Brasília 900 600
+Oslo NewDelhi 1000 720
+Sofia Helsinki 500 240
+Warsaw Cairo 600 360
+KualaLumpur Lima 1200 900
+WashingtonDC Vienna 1000 600
+Rome Nairobi 850 480
+NewDelhi Ljubljana 800 420
+BuenosAires Moscow 1300 960
+London Ljubljana 850 420
+Tehran Belgrade 700 480
+Helsinki Beijing 950 780
+Athens Lima 1200 900
+Nairobi Zagreb 800 540
+Athens Pretoria 1000 780
+Bern Caracas 1400 960
+Brussels Nuuk 500 300
+Seoul Brussels 1200 780
+BuenosAires Pretoria 1000 900
+Bangkok Cairo 950 600
+Dublin Madrid 250 120
+Abuja Berlin 750 360
+WashingtonDC Rome 950 540
+Pretoria Belgrade 900 600
+Beijing Caracas 1300 900
+Moscow Prague 850 480
+KualaLumpur Paris 950 720
+NewDelhi Oslo 1100 780
+London Ljubljana 700 360
+Lisbon MexicoCity 1100 780
+Budapest Oslo 750 300
+Beijing Copenhagen 850 480
+Paris Jerusalem 700 420
+Podgorica Canberra 1400 960
+Jakarta Nairobi 1000 720
+Cairo Canberra 1500 960
+Berlin Warsaw 300 180
+Nairobi Paris 600 360
+Abuja Jerusalem 850 540
+Vienna Dublin 400 180
+Warsaw Brussels 200 120
+Seoul Bern 1100 720
+KualaLumpur Ottawa 950 600
+Madrid Zagreb 700 360
+Vienna Caracas 1400 960
+Rome Bern 400 180
+Vienna Stockholm 300 150
+Lisbon Warsaw 250 180
+Bern Beijing 950 780
+Tokyo Amsterdam 1000 600
+Jerusalem Berlin 850 480
+WashingtonDC Berlin 1200 720
+Jerusalem Oslo 900 600
+Amsterdam Bogotá 1000 720
+Lisbon Brussels 200 120
+Amsterdam Prague 300 180
+Podgorica Bucharest 450 240
+Ljubljana Athens 350 200
+Lisbon Podgorica 400 240
+Bangkok Cairo 950 600
+Sofia Moscow 800 480
+Brussels WashingtonDC 1200 720
+Canberra Stockholm 1400 900
+Caracas Warsaw 1200 840
+Ottawa Budapest 900 600
+BuenosAires Brasília 800 480
+Nairobi KualaLumpur 1100 720
+Bucharest Canberra 1500 960
+KualaLumpur Belgrade 850 600
+BuenosAires Vienna 900 480
+Helsinki WashingtonDC 1400 840
+Belgrade Seoul 1200 840
+Stockholm Copenhagen 300 120
+Dublin Berlin 400 150
+Stockholm Paris 500 200
+Tokyo Lisbon 1000 600
+Copenhagen Bern 350 150
+Cairo Berlin 700 360
+Warsaw Podgorica 450 240
+Lisbon Madrid 200 90
+Pretoria Cairo 950 540
+Tehran Podgorica 850 600
+Tokyo Prague 1200 720
+Bangkok Nuuk 1500 900
+Rome Lima 1300 900
+Bratislava Sofia 350 180
+Berlin Tokyo 1100 840
+Bogotá Lisbon 900 600
+Warsaw Nairobi 1000 720
+Caracas Oslo 1200 840
+Nuuk Warsaw 900 540
+Belgrade Oslo 950 600
+KualaLumpur Lisbon 1000 720
+Moscow Zagreb 900 480
+Jakarta Bern 1100 780
+Bogotá WashingtonDC 1400 900
+Abuja Jerusalem 850 480
+Ottawa Brussels 300 150
+MexicoCity Budapest 850 540
+Bangkok Athens 1100 780
+Warsaw Nuuk 900 600
+Athens Berlin 700 420
+Belgrade KualaLumpur 950 600
+Bangkok Seoul 1200 720
+Nairobi Berlin 1000 600
+Podgorica Ljubljana 300 120
+Brussels Canberra 1300 900
+Moscow Jerusalem 1400 960
+Jakarta Tokyo 900 540
+Copenhagen Oslo 300 120
+Bogotá Cairo 1200 840
+Cairo Vienna 700 300
+Cairo Helsinki 900 600
+Amsterdam Tehran 950 540
+Madrid Abuja 800 360
+Santiago Rome 1200 840
+Amsterdam Jakarta 1100 780
+Lima Amsterdam 1400 900
+Podgorica Seoul 1400 840
+Ottawa Lima 1500 960
+Budapest Seoul 1300 780
+Cairo Tokyo 1100 720
+Paris Beijing 1200 840
+Bangkok Jakarta 300 120
+Bogotá Helsinki 1400 900
+Brasília Podgorica 1300 840
+Dublin Warsaw 400 180
+Oslo Tokyo 1200 840
+Paris Stockholm 400 180
+Budapest Berlin 300 120
+Warsaw Tokyo 1300 900
+MexicoCity Podgorica 1400 900
+NewDelhi Ljubljana 900 600
+Canberra Seoul 1500 960
+NewDelhi Belgrade 1000 720
+NewDelhi Brasília 1200 840
+Tokyo MexicoCity 1500 960
+Santiago Stockholm 1100 720
+Brussels Warsaw 300 150
+Abuja Seoul 1200 780
+Budapest Zagreb 300 120
+Bucharest Ljubljana 400 180
+Warsaw Brussels 250 120
+Amsterdam Warsaw 200 90
+Zagreb Seoul 1200 720
+Ljubljana Brasília 1400 840
+Stockholm Warsaw 400 180
+Canberra MexicoCity 1400 900
+Nuuk Moscow 1300 840
+Tehran Ljubljana 1100 780
+Belgrade Berlin 700 300
+Seoul Zagreb 1100 720
+Budapest Dublin 400 180
+Lima Brussels 1500 900
+Warsaw Prague 250 120
+Podgorica Copenhagen 400 180
+London NewDelhi 1300 840
+Canberra London 1500 960

@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="com.example.project3.HelloApplication" />
+    <module name="project3" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\openjfx-23.0.1_windows-x64_bin-sdk\javafx-sdk-23.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
